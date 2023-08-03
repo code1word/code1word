@@ -5,5 +5,5 @@
 - My interests in CS are quite varied, but I'm particularly interested in machine learning 🧠 & natural language processing 🗣️ and web development 
 - I’m looking to collaborate 🤝🏽 on interesting ML/NLP projects as well as hackathons 👨🏽‍💻!
 - I'm proficient in Java, Python, C/C++, HTML/CSS, JavaScript, React, and SQL ⚙️
-- You can reach me at <dhruvyalamanchi9@gmail.com> 📫
+- You can reach me at <dy2444@columbia.edu> 📫
 
